@@ -27,5 +27,3 @@ chain = prompt | model | parser
 # Run
 result = chain.invoke({"country": "France"})
 print(result)
-
-chain.get_graph()
