@@ -18,4 +18,4 @@ splitter = TextSplitter(
     separators=''
 )
 result = splitter.split_character(text)
-print(result)   
+print(result)    
