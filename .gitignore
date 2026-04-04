@@ -1,0 +1,11 @@
+.env
+env/
+venv/
+__pycache__/
+.vscode/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.pyd
+.Python
+faiss_index/

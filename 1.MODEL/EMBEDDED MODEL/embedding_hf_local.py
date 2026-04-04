@@ -10,4 +10,4 @@ documents = [
 
 vector = embedding.embed_documents(documents)
 
-print(str(vector))
+print(str(vector)) 
